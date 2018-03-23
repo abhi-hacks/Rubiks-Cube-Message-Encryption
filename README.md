@@ -7,5 +7,4 @@ Encryption: Letterlist pasted on a 4x4 rubiks cube -> Transposition -> Substitut
 
 Decryption: Letterlist pasted on a 4x4 rubiks cube -> Transposition based on key -> Substitution based on orientation of cube -> Plain text recovered -> Letter list reinitialized with new state
 
-# Now creating a Picture Crypto Algorithm with this
-# Stay tuned for updates
+```Now creating a Picture Crypto Algorithm with this. Stay tuned for updates.```
